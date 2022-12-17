@@ -1,5 +1,3 @@
 # Hackintosh-OpenCore0.87-12400F-B660M-AORUS-PRO-DDR4-RX5700xt-82599
 
-test ok
-
-MAC OS 13.1 VENTURA
+Worked on MAC OS 13.1 VENTURA
